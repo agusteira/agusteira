@@ -6,26 +6,16 @@ AgusTeira</a></h1>
 </p>
 
 ## 🤓 About me 
-🚀 
+🚀 I am 19 years old and currently a university student with a strong interest in technological software development. I possess the ability to quickly assimilate new knowledge and apply it effectively in professional environments. I am actually searching for a job opportunity that will allow me to develop my skills and gain experience in the field.
 
 📓 
-
+:YouTube:
 🎮 
 
 ## Connect with me!
 
 
 ## 🛠️ Skills
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow)
-![c#](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![NET](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=yellow)
-![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![windows](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![adobephotoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![adobeillustrator](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
 
 
 <!--
