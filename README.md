@@ -5,12 +5,12 @@ AgusTeira</a></h1>
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
-## 🤓 About me 
+## 📝 About me 
 🚀 I am 19 years old and currently a university student with a strong interest in technological software development. I possess the ability to quickly assimilate new knowledge and apply it effectively in professional environments. I am actually searching for a job opportunity that will allow me to develop my skills and gain experience in the field.
 
 📓 One interesting aspect about me is that I am the owner of a YouTube channel with 26K subscribers, focusing on movies and TV shows. Managing this channel has taught me valuable lessons in working independently without a boss, and has honed my skills in being autonomous, which has greatly contributed to shaping who I am today.
 
-## Connect with me!
+## 🤝Connect with me!
 <a href="https://www.linkedin.com/in/agustin-gabriel-teira-025445277/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
