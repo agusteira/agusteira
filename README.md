@@ -13,8 +13,7 @@ AgusTeira</a></h1>
 🎮 
 
 ## Connect with me!
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saszo/)
-![email](https://img.shields.io/badge/tomassassone22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 ## 🛠️ Skills
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow)
@@ -26,10 +25,6 @@ AgusTeira</a></h1>
 ![windows](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![adobephotoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![adobeillustrator](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-## 🧪 My languages!
-![tabla](https://camo.githubusercontent.com/7b3a28d08624bb9f1330fc16035102e34a1c5ed14ec78b9e05df94352db32f8b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7034747474302673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
-
 
 
 
