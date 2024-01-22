@@ -22,6 +22,12 @@ AgusTeira</a></h1>
 &emsp;
 
 ## 💻 Skills
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow)
+![c#](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![NET](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=yellow)
+![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![windows](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![adobephotoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
 <!--
