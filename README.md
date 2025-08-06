@@ -6,7 +6,7 @@ AgusTeira</a></h1>
 </p>
 
 ## 📝 About me 
-🚀 I am 19 years old and currently a university student with a strong interest in technological software development. I possess the ability to quickly assimilate new knowledge and apply it effectively in professional environments. I am actually searching for a job opportunity that will allow me to develop my skills and gain experience in the field.
+🚀 I’m a backend developer with experience in the banking industry, focused on building scalable and efficient software solutions for traditional banking systems. I have completed my university studies in computer science and I’m passionate about technology and backend development. I learn quickly and apply new knowledge effectively in professional environments. I also have experience working with interdisciplinary teams, always aiming to solve problems productively and efficiently.
 
 📓 One interesting aspect about me is that I am the owner of a YouTube channel with 34K subscribers, focusing on movies and TV shows. Managing this channel has taught me valuable lessons in working independently without a boss, and has honed my skills in being autonomous, which has greatly contributed to shaping who I am today.
 
